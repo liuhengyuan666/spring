@@ -1,0 +1,104 @@
+2020-04-08 14:55:35.279  INFO 7052 --- [Test worker] cn.edu.scujcc.DiandianApplicationTests   : Starting DiandianApplicationTests on LAPTOP-MLOKIEBG with PID 7052 (started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 14:55:35.284  INFO 7052 --- [Test worker] cn.edu.scujcc.DiandianApplicationTests   : No active profile set, falling back to default profiles: default
+2020-04-08 14:55:39.627  INFO 7052 --- [Test worker] cn.edu.scujcc.DiandianApplicationTests   : Started DiandianApplicationTests in 4.932 seconds (JVM running for 7.311)
+2020-04-08 14:55:49.658  INFO 14948 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 14948 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 14:55:49.660  INFO 14948 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 14:55:50.521  INFO 14948 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 834 ms
+2020-04-08 14:55:51.041  INFO 14948 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 1.572 seconds (JVM running for 2.744)
+2020-04-08 14:56:24.983  INFO 14948 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-08 14:56:24.989  INFO 14948 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-04-08 14:56:25.004  INFO 14948 --- [http-nio-8080-exec-1] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 14:57:31.470  INFO 14948 --- [http-nio-8080-exec-5] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 15:33:48.726  INFO 14948 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 14948 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 15:33:48.726  INFO 14948 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 15:33:48.983  INFO 14948 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 253 ms
+2020-04-08 15:33:49.094  INFO 14948 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.436 seconds (JVM running for 2280.797)
+2020-04-08 15:34:05.523  INFO 11456 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 11456 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 15:34:05.525  INFO 11456 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 15:34:06.283  INFO 11456 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 731 ms
+2020-04-08 15:34:06.838  INFO 11456 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 1.497 seconds (JVM running for 2.593)
+2020-04-08 15:34:39.246  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 23344 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 15:34:39.248  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 15:34:40.026  INFO 23344 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 750 ms
+2020-04-08 15:34:40.528  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 1.466 seconds (JVM running for 2.509)
+2020-04-08 15:36:50.717  INFO 23344 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-08 15:36:50.726  INFO 23344 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-04-08 15:36:50.743  INFO 23344 --- [http-nio-8080-exec-1] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 15:37:37.697  INFO 23344 --- [http-nio-8080-exec-4] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 15:39:02.575  INFO 23344 --- [http-nio-8080-exec-10] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 16:11:18.681  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 23344 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 16:11:18.681  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 16:11:18.886  INFO 23344 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 203 ms
+2020-04-08 16:11:18.983  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.329 seconds (JVM running for 2200.962)
+2020-04-08 16:15:58.867  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 23344 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 16:15:58.867  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 16:15:59.047  INFO 23344 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 179 ms
+2020-04-08 16:15:59.122  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.278 seconds (JVM running for 2481.103)
+2020-04-08 16:17:41.323  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 23344 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 16:17:41.323  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 16:17:41.505  INFO 23344 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 180 ms
+2020-04-08 16:17:41.593  INFO 23344 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.296 seconds (JVM running for 2583.573)
+2020-04-08 16:22:37.977  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 16:22:37.979  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 16:22:38.755  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 748 ms
+2020-04-08 16:22:39.255  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 1.461 seconds (JVM running for 2.515)
+2020-04-08 16:22:50.263  INFO 1804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-08 16:22:50.269  INFO 1804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-04-08 16:22:50.286  INFO 1804 --- [http-nio-8080-exec-1] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 16:26:01.866  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 16:26:01.866  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 16:26:02.082  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 214 ms
+2020-04-08 16:26:02.172  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.332 seconds (JVM running for 205.432)
+2020-04-08 16:27:59.826  INFO 1804 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-08 16:27:59.830  INFO 1804 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-04-08 16:28:06.904  INFO 1804 --- [http-nio-8080-exec-3] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 16:29:20.101  INFO 1804 --- [http-nio-8080-exec-8] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 16:31:27.974  INFO 1804 --- [http-nio-8080-exec-4] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 16:31:44.276  INFO 1804 --- [http-nio-8080-exec-6] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 16:34:03.878  INFO 1804 --- [http-nio-8080-exec-2] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 16:50:43.475  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 16:50:43.476  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 16:50:43.659  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 182 ms
+2020-04-08 16:50:43.743  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.293 seconds (JVM running for 1687.003)
+2020-04-08 16:53:46.548  INFO 1804 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-08 16:53:46.552  INFO 1804 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-04-08 16:55:09.368  INFO 1804 --- [http-nio-8080-exec-4] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 16:57:32.980  INFO 1804 --- [http-nio-8080-exec-8] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 17:09:19.281  INFO 1804 --- [http-nio-8080-exec-3] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息：
+2020-04-08 17:13:11.808  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 17:13:11.808  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 17:13:11.984  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 174 ms
+2020-04-08 17:13:12.059  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.276 seconds (JVM running for 3035.319)
+2020-04-08 17:13:32.950  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 17:13:32.950  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 17:13:33.120  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 168 ms
+2020-04-08 17:13:33.194  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.267 seconds (JVM running for 3056.454)
+2020-04-08 17:13:39.027  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 17:13:39.028  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 17:13:39.201  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 172 ms
+2020-04-08 17:13:39.285  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.28 seconds (JVM running for 3062.545)
+2020-04-08 17:15:02.249  INFO 1804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-08 17:15:02.254  INFO 1804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-04-08 17:26:04.468  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 17:26:04.468  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 17:26:04.732  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 263 ms
+2020-04-08 17:26:04.916  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.481 seconds (JVM running for 3808.175)
+2020-04-08 17:26:07.084  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 17:26:07.084  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 17:26:07.310  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 225 ms
+2020-04-08 17:26:07.416  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.359 seconds (JVM running for 3810.676)
+2020-04-08 17:26:30.832  INFO 1804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-08 17:26:30.834  INFO 1804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-04-08 17:27:48.950  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 17:27:48.950  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 17:27:49.236  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 284 ms
+2020-04-08 17:27:49.342  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.426 seconds (JVM running for 3912.602)
+2020-04-08 17:30:39.234  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Starting DiandianApplication on LAPTOP-MLOKIEBG with PID 1804 (F:\Android\spring\Projects\diandian\bin\main started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 17:30:39.235  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : No active profile set, falling back to default profiles: default
+2020-04-08 17:30:39.689  INFO 1804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 451 ms
+2020-04-08 17:30:39.807  INFO 1804 --- [restartedMain] cn.edu.scujcc.DiandianApplication        : Started DiandianApplication in 0.609 seconds (JVM running for 4083.067)
+2020-04-08 17:31:57.948  INFO 1804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-08 17:31:57.960  INFO 1804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2020-04-08 17:33:45.910  INFO 22428 --- [Test worker] cn.edu.scujcc.DiandianApplicationTests   : Starting DiandianApplicationTests on LAPTOP-MLOKIEBG with PID 22428 (started by WYX in F:\Android\spring\Projects\diandian)
+2020-04-08 17:33:45.922  INFO 22428 --- [Test worker] cn.edu.scujcc.DiandianApplicationTests   : No active profile set, falling back to default profiles: default
+2020-04-08 17:33:50.932  INFO 22428 --- [Test worker] cn.edu.scujcc.DiandianApplicationTests   : Started DiandianApplicationTests in 5.619 seconds (JVM running for 8.418)
